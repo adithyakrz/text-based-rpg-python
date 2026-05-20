@@ -49,5 +49,4 @@ while True:
         print(f"{boss.name} Wins the match against {player.name}!")
         break
         
-    # 4. Print running status if both survived the round
     print(f"-> Status: {player.name} HP: {player.health} | {boss.name} HP: {boss.health}\n")
