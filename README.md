@@ -13,7 +13,10 @@
 ```text
 ├── Charecter.py                 
 ├── Boss.py                      
-└── TextBasedRPGSimulator.py     
+└── TextBasedRPGSimulator.py
+```
+
+  
 
 ### 🧠 Core Concepts Mastered
 
