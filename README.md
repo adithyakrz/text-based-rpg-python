@@ -41,10 +41,11 @@ Ensure you have Python installed locally. Clone the repository, navigate to the 
 
 ```bash
 python TextBasedRPGSimulator.py
-
+```
 
 ##Sample Gameplay Trace
 
+```
 Plaintext
 Player info:
 Name: Pikachu
@@ -62,6 +63,7 @@ Hit! Damage: 490
 Charizard Attacks
 Critical Hit!! Damage: 726
 -> Status: Pikachu HP: 3274 | Charizard HP: 5510
+```
 ...
 Pikachu Attacks
 Critical Hit!! Damage: 200
