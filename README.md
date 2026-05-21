@@ -63,10 +63,11 @@ Hit! Damage: 490
 Charizard Attacks
 Critical Hit!! Damage: 726
 -> Status: Pikachu HP: 3274 | Charizard HP: 5510
-```
+
 ...
 Pikachu Attacks
 Critical Hit!! Damage: 200
 
 Final Status: Pikachu HP: 301 | Charizard HP: -9
 🏆 Pikachu Wins the match against Charizard!
+```
